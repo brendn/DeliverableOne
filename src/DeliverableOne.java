@@ -29,7 +29,7 @@ public class DeliverableOne {
 				upperCase && lowerCase) {
 			System.out.println("Password valid and accepted");
 		} else {
-			System.out.println("Error ");
+			System.out.println("Error");
 		}
 		
 		scanner.close();
